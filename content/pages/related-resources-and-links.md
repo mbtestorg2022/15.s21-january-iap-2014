@@ -93,7 +93,7 @@ _How is a Venture Capital Fund Structured? How Are VCs Compensated? What Do Thes
 ["Venture Capital Deal Terms" (PPT)](http://nutsandbolts.mit.edu/2014/resources/Venture Capital Deal Terms.ppt)  
 _Presentation Slides from MIT Enterprise Forum Satellite Broadcast on Structuring Deals._
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Sample First Round Venture Capital Termsheet" (PDF)](http://nutsandbolts.mit.edu/2014/resources/VCTermsheet.pdf)  
+["Sample First Round Venture Capital Termsheet" (PDF)](http://nutsandbolts.mit.edu/2014/resources/VCTermsheet.pdf)  
 _This is a sample termsheet from a venture capital firm for a first round (Series A Convertible Preferred) deal._
 
 ### General Advice to Enterprenuers
@@ -148,7 +148,7 @@ Deal Source Information
 
 There are a number of places on the web where you can find out about venture capital and private equity funding transactions - e.g. [VCExperts](https://vcexperts.com/), [PEHub](https://www.pehub.com/) or [The Deal](http://www.thedeal.com/).
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_The Technology Entrepreneur's Guidebook (PDF)_](http://nutsandbolts.mit.edu/2014/resources/Guidebook.pdf). Jain, Abhishek (ed.). Washington Technology Partners, Inc., 2001. Provided by PricewaterhouseCoopers Entrepreneurial Services Center (Ian Carver, Executive Director, PricewaterhouseCoopers LLP). Entrepreneurial Services Center, One Broadway, Cambridge, MA.
+[_The Technology Entrepreneur's Guidebook (PDF)_](http://nutsandbolts.mit.edu/2014/resources/Guidebook.pdf). Jain, Abhishek (ed.). Washington Technology Partners, Inc., 2001. Provided by PricewaterhouseCoopers Entrepreneurial Services Center (Ian Carver, Executive Director, PricewaterhouseCoopers LLP). Entrepreneurial Services Center, One Broadway, Cambridge, MA.
 
 [PricewaterhouseCoopers](http://www.pwc.com/) has provided some Excel spreadsheet templates for financial projections for Business Plans. Use these financial modeling spreadsheets to clearly illustrate your return on investment, profitability and cash-flow milestones, and to integrate your performance goals with your financial goals. If you are a service-based business you'll want to use the "service" model.
 
@@ -185,7 +185,7 @@ Here are some resources about intellectual property - what is it and how do you 
 
 [US Patent and Trademark Office](http://www.uspto.gov/). In the United States patent applications are filed with and issued by the USPTO. You can search for published pending applications and for issued patents at the [USPTO Patent Search Site](http://patft.uspto.gov/).
 
-[MIT Technology Licensing Office](http://tlo.mit.edu/). The TLO is responsible for MIT's intellectual property, including patents, copyrights and trademarks. You can search the TLO's [Patents Available for Licensing](http://technology.mit.edu/) website to see what technologies are available. For information about MIT staff and student rights in technology see: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Guide to the Ownership, Distribution and Commercial Development of MIT Technology (PDF)](http://web.mit.edu/tlo/documents/MIT-TLO-ownership-guide.pdf).
+[MIT Technology Licensing Office](http://tlo.mit.edu/). The TLO is responsible for MIT's intellectual property, including patents, copyrights and trademarks. You can search the TLO's [Patents Available for Licensing](http://technology.mit.edu/) website to see what technologies are available. For information about MIT staff and student rights in technology see: [Guide to the Ownership, Distribution and Commercial Development of MIT Technology (PDF)](http://web.mit.edu/tlo/documents/MIT-TLO-ownership-guide.pdf).
 
 [IPVision Patent Analytics](http://www.ipvisioninc.com). IPVision is a MIT spinoff that has developed algorithms and analytics to enable business, technical and legal experts to understand the intellectual property landscape. You can create patent maps, search for U.S. patents and produce analyses at [See-the-Forest.com](http://www.see-the-forest.com/).
 

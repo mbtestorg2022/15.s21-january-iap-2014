@@ -54,9 +54,9 @@ During this course we will be referring to the Virtual Ink Business Plan as an e
 
 In preparation for the class skim through the _Virtual Ink Business Plan_. Focus on the Executive Summary and the Table of Contents. This is a real plan submitted in the MIT $50K Competition (now $100K) which resulted in a real business which received substantial funding:
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Virtual Ink_ Executive Summary (PDF)](http://nutsandbolts.mit.edu/Virtual_Ink/VirtualInk.pdf)
-*   _![This resource may not render correctly in a screen reader.](/images/inacessible.gif)_[_Virtual Ink_ Plan: Company and Product Section (PDF)](http://nutsandbolts.mit.edu/Virtual_Ink/VirtualInk_CompanyProduct.pdf)
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Virtual Ink_ Plan: Market Section (PDF)](http://nutsandbolts.mit.edu/Virtual_Ink/VirtualInk_Market.pdf)
+*   [_Virtual Ink_ Executive Summary (PDF)](http://nutsandbolts.mit.edu/Virtual_Ink/VirtualInk.pdf)
+*   __[_Virtual Ink_ Plan: Company and Product Section (PDF)](http://nutsandbolts.mit.edu/Virtual_Ink/VirtualInk_CompanyProduct.pdf)
+*   [_Virtual Ink_ Plan: Market Section (PDF)](http://nutsandbolts.mit.edu/Virtual_Ink/VirtualInk_Market.pdf)
 
 
 {{< tdclose >}}
@@ -155,8 +155,8 @@ We recommend the following book as a useful framework for thinking about Busines
 
 For class please review the following:
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Business Model Generation Preview (PDF - 5.2MB)](http://nutsandbolts.mit.edu/2014/resources/businessmodelgeneration_preview.pdf)
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Business Model Canvas (PDF)](http://nutsandbolts.mit.edu/2014/resources/business_model_canvas_poster.pdf) 
+*   [Business Model Generation Preview (PDF - 5.2MB)](http://nutsandbolts.mit.edu/2014/resources/businessmodelgeneration_preview.pdf)
+*   [Business Model Canvas (PDF)](http://nutsandbolts.mit.edu/2014/resources/business_model_canvas_poster.pdf) 
 
 
 {{< tdclose >}}
@@ -210,7 +210,7 @@ Articles from the Boston Business Journal "Starting Up" column:
 *   Joe Hadzima. ["What Are the Terms? – Part 3: Run Don't Walk To The Exit."](http://www.mitef.org/s/1314/interior-2-col.aspx?sid=1314&gid=5&pgid=5806) _MIT Enterprise Forum_.
 
   
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Excerpts from: Venture Support Systems Project: Report on Angel Investors (PDF)](http://nutsandbolts.mit.edu/2014/resources/angelreportexcerpts.pdf), MIT Entrepreneurship Center, 2000. The full report is also available: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Full Angel Investor Report (PDF)](http://nutsandbolts.mit.edu/2014/resources/angelreport.pdf).
+[Excerpts from: Venture Support Systems Project: Report on Angel Investors (PDF)](http://nutsandbolts.mit.edu/2014/resources/angelreportexcerpts.pdf), MIT Entrepreneurship Center, 2000. The full report is also available: [Full Angel Investor Report (PDF)](http://nutsandbolts.mit.edu/2014/resources/angelreport.pdf).
 
 
 {{< tdclose >}}
@@ -316,7 +316,7 @@ General questions and answers on legal issues for the entrepreneur-What you alwa
 {{< tdopen >}}
 
 
-Joe Hadzima. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Considerations for Founders: Issues in Structuring Relationships Among Members of the Founding Team." (PDF)](http://nutsandbolts.mit.edu/2014/resources/FoundersMemo.pdf)
+Joe Hadzima. "[Considerations for Founders: Issues in Structuring Relationships Among Members of the Founding Team." (PDF)](http://nutsandbolts.mit.edu/2014/resources/FoundersMemo.pdf)
 
 Articles from the Boston Business Journal "Starting Up" column:
 
