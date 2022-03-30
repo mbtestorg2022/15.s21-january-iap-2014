@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: The Technology Entrepreneur's Guidebook
+parent_uid: 81867148-2c05-0830-8342-fa4892f8a248
 resourcetype: Image
 title: 15.S21_Guidebook_cover.jpg
 uid: ac6082af-74e4-e2b2-fbd9-adcd51bcbfd9

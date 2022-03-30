@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 81867148-2c05-0830-8342-fa4892f8a248
 resourcetype: Image
 title: PriceWaterHouse.jpg
 uid: 5748e224-1d7f-afe8-ca2b-78116355de98
